@@ -1,0 +1,21 @@
+label{
+  color: #fd7b38 !important;
+  font-weight: bold !important;
+
+}
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: none !important;
+  background: url("../pages/images/selectarrow.svg") #fd7b38 no-repeat 0 !important;
+  /* Better placement regardless of input width */
+  background-color: #f8f8f8 !important;
+  color: #242424;
+}
+.table-container select {
+  padding: 2px !important;
+  width: 4rem !important;
+  text-align: center !important;
+  margin: 0 6px !important;
+}
